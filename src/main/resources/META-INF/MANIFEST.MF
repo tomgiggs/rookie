@@ -1,0 +1,36 @@
+Manifest-Version: 1.0
+Class-Path: tomcat-embed-el-8.5.34.jar spring-boot-2.0.5.RELEASE.jar h
+ ibernate-validator-6.0.12.Final.jar mybatis-3.4.0.jar spring-boot-sta
+ rter-web-2.0.5.RELEASE.jar reactive-streams-1.0.2.jar thymeleaf-extra
+ s-java8time-3.0.1.RELEASE.jar netty-common-4.1.29.Final.jar spring-bo
+ ot-starter-logging-2.0.5.RELEASE.jar tomcat-embed-websocket-8.5.34.ja
+ r spring-aop-5.0.9.RELEASE.jar logback-core-1.2.3.jar mysql-connector
+ -java-5.1.47.jar yamlbeans-1.08.jar spring-boot-devtools-2.0.5.RELEAS
+ E.jar validation-api-2.0.1.Final.jar spring-tx-5.0.9.RELEASE.jar spri
+ ng-oxm-5.0.9.RELEASE.jar netty-buffer-4.1.29.Final.jar spring-jcl-5.0
+ .9.RELEASE.jar jackson-databind-2.9.6.jar spring-webmvc-5.0.9.RELEASE
+ .jar spring-data-keyvalue-2.0.10.RELEASE.jar netty-handler-4.1.29.Fin
+ al.jar spring-boot-starter-tomcat-2.0.5.RELEASE.jar spring-data-redis
+ -2.0.10.RELEASE.jar spring-beans-5.0.9.RELEASE.jar snakeyaml-1.19.jar
+  reactor-core-3.1.9.RELEASE.jar unbescape-1.1.5.RELEASE.jar spring-bo
+ ot-starter-thymeleaf-2.0.5.RELEASE.jar spring-expression-5.0.9.RELEAS
+ E.jar spring-boot-starter-jdbc-2.0.5.RELEASE.jar logback-classic-1.2.
+ 3.jar commons-pool2-2.5.0.jar spring-boot-autoconfigure-2.0.5.RELEASE
+ .jar netty-resolver-4.1.29.Final.jar spring-context-5.0.9.RELEASE.jar
+  spring-boot-starter-2.0.5.RELEASE.jar spring-core-5.0.9.RELEASE.jar 
+ spring-boot-configuration-processor-2.0.5.RELEASE.jar HikariCP-2.7.9.
+ jar jackson-datatype-jsr310-2.9.6.jar spring-boot-starter-json-2.0.5.
+ RELEASE.jar jul-to-slf4j-1.7.25.jar classmate-1.3.4.jar spring-boot-s
+ tarter-data-redis-2.0.5.RELEASE.jar tomcat-embed-core-8.5.34.jar log4
+ j-to-slf4j-2.10.0.jar thymeleaf-3.0.9.RELEASE.jar netty-transport-4.1
+ .29.Final.jar jboss-logging-3.3.2.Final.jar spring-data-commons-2.0.1
+ 0.RELEASE.jar netty-codec-4.1.29.Final.jar javax.annotation-api-1.3.2
+ .jar jackson-core-2.9.6.jar lettuce-core-5.0.5.RELEASE.jar log4j-api-
+ 2.10.0.jar javax.servlet-api-4.0.0.jar jackson-datatype-jdk8-2.9.6.ja
+ r attoparser-2.0.4.RELEASE.jar jackson-module-parameter-names-2.9.6.j
+ ar slf4j-api-1.7.25.jar fastjson-1.2.44.jar spring-context-support-5.
+ 0.9.RELEASE.jar spring-jdbc-5.0.9.RELEASE.jar jackson-annotations-2.9
+ .0.jar thymeleaf-spring5-3.0.9.RELEASE.jar spring-web-5.0.9.RELEASE.j
+ ar log4j-1.2.17.jar jedis-2.7.2.jar
+Main-Class: com.streamcompute.learn.rookie.RookieApplication
+
