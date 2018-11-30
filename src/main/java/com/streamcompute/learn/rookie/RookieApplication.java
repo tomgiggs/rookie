@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class RookieApplication {
 
 	public static void main(String[] args) {
+		System.setProperty("es.set.netty.runtime.available.processors", "false");//为了避免报错availableProcessors is already set to [8], rejecting [8]
 		SpringApplication.run(RookieApplication.class, args);
 
 
